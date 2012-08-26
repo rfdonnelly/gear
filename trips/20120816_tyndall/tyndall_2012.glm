@@ -1,0 +1,253 @@
+group TENT {
+    +1 tent_ren
+    +1 tent_ren::footprint
+}
+
+group SLEEP_ROB {
+    +1 sleeping_bag
+    +1 sleeping_bag::sack
+    +1 pillow
+    +1 sleeping_pad
+    +1 sleeping_pad::straps
+}
+
+group SLEEP_SHARED_REN {
+    +1 TENT
+}
+
+group SLEEP_SHARED {
+    +1 SLEEP_SHARED_REN
+}
+
+group CLIMBING_HARNESS_ROB {
+    +1 harness
+    +1 belay_device
+    +1 nut_tool
+    #+1 self_rescue # FIXME move to shared and bring one set?
+    +1 biner::belay
+    +1 biner::locking # tie in biner
+    +1 biner::locking::small # autoblock biner
+}
+
+group CLIMBING_DRAWS {
+    +8 sling::single
+    +16 biner   # 2 per single length sling for alpine draws
+    +2 sling::double
+    +2 biner    # 1 per double length sling
+}
+
+group CLIMBING_HEXES {
+    +1 hex::3
+    #+1 hex::4 FIXME missing
+    +1 hex::5
+    +1 hex::6
+    +1 hex::7
+}
+
+group CLIMBING_PRO {
+    +1 nuts
+    +1 CLIMBING_HEXES
+}
+
+group CLIMBING_ROB {
+    +1 rock_shoes
+    +1 helmet
+    +1 CLIMBING_HARNESS_ROB
+}
+
+group CLIMBING_SHARED_ROB {
+    +1 CLIMBING_PRO
+    +1 CLIMBING_DRAWS
+}
+
+group CLIMBING_SHARED_REN {
+    +1 rope_ren
+}
+
+group CLIMBING_SHARED {
+    +1 CLIMBING_SHARED_ROB
+    +1 CLIMBING_SHARED_REN
+}
+
+group TOILETRIES_ROB {
+    +1 tooth_brush
+    +1 floss
+    +1 tooth_paste
+    +1 sun_screen
+    +1 towel
+    +1 towel::sack
+    +1 hand_sanitizer
+    +1 tp
+    +5 wipes 
+    +1 bug::spray
+    +3 chapstick
+}
+
+group FIRST_AID {
+    +16 ibuprofen
+    +5 band_aid
+    +5 bandage
+    +5 alcohol_wipe
+    +1 foot::powder
+    +1 duct_tape
+}
+
+group KITCHEN_ROB {
+    +1 bowl
+    +1 mug
+    +1 bottle::small
+    +1 bottle
+    +1 spoon::long
+}
+
+group KITCHEN_SHARED_ROB {
+    +1 bear_can
+    #+1 kettle # bring ren's pot instead
+    +1 pot_ren
+    +1 stove
+    +1 sponge
+}
+
+group KITCHEN_SHARED_REN {
+    +1 filter_ren
+}
+
+group KITCHEN_SHARED {
+    +1 KITCHEN_SHARED_ROB
+    +1 KITCHEN_SHARED_REN
+}
+
+group CLOTHES_ROB {
+    +1 cap
+    +1 beanie
+    +1 gloves::mid
+    +1 fleece
+    +1 shell
+    #+1 thermal::top # will use fleece instead
+    #+1 thermal::bottom # will use guide pants instead
+    +1 shirt::base
+    +1 shirt::short_sleeve
+    +1 pants::guide
+    +1 shorts
+    +1 underwear
+    +2 socks::light
+    +2 socks::liners
+    +1 buff
+    +1 bug::net # FIXME didn't use last time
+}
+
+group CLOTHES_PACK_ROB {
+    +1 CLOTHES_ROB
+    -1 shirt::short_sleeve
+    -1 shorts
+    -1 cap
+    -1 socks::light
+    -1 socks::liners
+    -1 underwear
+}
+
+group ACCESSORIES_ROB {
+    +1 headlamp
+    +1 sun_glasses
+    +1 sun_glasses::soft_case
+    +1 maps
+    +1 camera
+    +1 camera::battery
+    +1 knife
+    +1 knife::sheath
+    #+1 camp_shoes # don't bring
+    #+1 watch # FIXME don't have
+    +1 boots
+    +1 trekking_poles
+    +2 biner
+}
+
+group ACCESSORIES_PACK_ROB {
+    +1 ACCESSORIES_ROB
+    -1 sun_glasses
+    -1 watch
+    -1 boots
+    -1 trekking_poles
+    -1 camera
+}
+
+group CONSUMABLES_ROB {
+    +2 water
+    +4 food
+}
+
+group CONSUMABLES_SHARED_ROB {
+    +1 fuel
+    +4 food
+}
+
+group CONSUMABLES_SHARED {
+    +1 CONSUMABLES_SHARED_ROB
+}
+
+group MAIN_ROB {
+    +1 backpack
+    +1 daypack
+    +1 bladder
+}
+
+group PACK_DRY_ROB {
+    +1 MAIN_ROB
+    +1 SLEEP_ROB
+
+    +1 CLIMBING_ROB
+    +1 CLIMBING_SHARED_ROB
+    
+    +1 KITCHEN_ROB
+    +1 KITCHEN_SHARED_ROB
+
+    +1 TOILETRIES_ROB
+    +1 FIRST_AID
+    +1 CLOTHES_PACK_ROB
+    +1 ACCESSORIES_PACK_ROB
+}
+
+group PACK_TOTAL_ROB {
+    +1 PACK_DRY_ROB
+    +1 CONSUMABLES_ROB
+    +1 CONSUMABLES_SHARED_ROB
+}
+
+group TOTAL_SHARED_ROB {
+    +1 CLIMBING_SHARED_ROB
+    +1 KITCHEN_SHARED_ROB
+    +1 CONSUMABLES_SHARED_ROB
+}
+
+group TOTAL_SHARED_REN {
+    +1 SLEEP_SHARED_REN
+    +1 CLIMBING_SHARED_REN
+    +1 KITCHEN_SHARED_REN
+}
+
+
+#
+#Gear Weight:
+#(All Measurements are to a tenth of a pound & represent a true pack weight with all accessories included)
+#
+#
+#3.9 - 2p BP Tent- Skyledge 2.1
+#0.4 - 2p Footprint- MSR Hubba Hubba 
+#0.4- Pot- GSI Pinnacle Soloist (1.1L)
+#9.0 - Rope- Petzel Nomad 9.8mm
+#0.9 - Water Filter- Katadyn Hiker Pro
+#0.3- Wash Blatter- MSR Dromlite Bag (6L)
+#
+#Total Weight = 14.9 lbs
+
+# NOTES:
+
+# My estimated starting pack weight is 40lbs. This is includes 2L of water.
+
+# Volume
+# I am concerned about food and trash volume.  This is an 8 man day trip.  While we don't need to fit 8 man days worth of food into the bear bin, we still need to fit at least 6 man days worth of food and trash.  Remember how difficult it was to fit 4 man days of food in the bearikade?
+
+# * ALL dehydrated meals should be emptied into zip lock baggies.  Write whatever instructions needed on baggies with Sharpie.  Save one of the original meal bags for rehydrating.
+
+# * We should minimize non-calorie-dense foods.  Instead of bringing two types of triscuts we should only bring one and minimize the amount.  I'm not bringing any hard-boiled eggs on this trip =(.
+

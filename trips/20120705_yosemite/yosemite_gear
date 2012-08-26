@@ -1,0 +1,125 @@
+# 3 day backpack to do Yosemite Valley's North rim
+
+tent
++1 tent_1p
++1 tent_1p::sack
++1 tent_1p::fly
++1 tent_1p::cord
++1 tent_1p::footprint
++1 tent_1p::poles
++5 tent_1p::stake
+
+main
++1 sleeping_bag
++1 sleeping_bag::sack
++1 pillow
++1 sleeping_pad
++1 sleeping_pad::cord
++1 backpack
++1 bladder
+
+toiletries
++1 tooth_brush
++1 floss
++1 tooth_paste
++1 sun_screen
++1 towel
++1 towel::sack
++1 hand_sanitizer
++1 lotion
++1 tp
++5 wipes 
++1 bug::spray
++3 chapstick
+
+first_aid
++16 ibuprofen
++5 band_aids
++5 bandages
++5 alcohol_wipes
++1 foot::powder
++1 duct_tape
+
+kitchen
++1 bear_can
++1 kettle
++1 bowl
++1 mug
++1 bottle::gatorade
++1 bottle
++1 spoon::long
++1 stove
++1 sponge
+#+1 filter # Ren to bring his
+#+1 filter::scrubber
+
+clothes
++1 cap
++1 beanie
++1 gloves::mid
++1 fleece
+#+1 shell
+#+1 thermal::top # too warm
+#+1 thermal::bottom # too warm
++1 shirt
++1 pants
++1 underwear
++2 socks::light
++2 socks::liners
++1 buff
++1 bug::net # didn't use
+
+clothes_pack
++1 section::clothes
+-1 shirt
+-1 pants
+-1 cap
+-1 socks::light
+-1 socks::liners
+-1 underwear
+
+accessories
++1 headlamp
++1 sun_glasses
++1 sun_glasses::soft_case
++1 maps
++1 camera
++1 camera::battery
++1 knife
++1 knife::sheath
++1 camp_shoes
++1 watch
++1 boots
++1 trekking_poles
++2 biner::nano
+
+accessories_pack
++1 section::accessories
+-1 sun_glasses
+-1 watch
+-1 boots
+-1 trekking_poles
+-1 camera
+
+consumables
++1 fuel
++2 water
++3 food
+
+bear_can
++1 bear_can
++3 food
+
+pack_dry
++1 section::tent
++1 section::main
++1 section::kitchen
++1 section::toiletries
++1 section::first_aid
++1 section::clothes_pack
++1 section::accessories_pack
+
+pack_total
++1 section::pack_dry
++1 section::consumables
+

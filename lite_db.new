@@ -1,0 +1,324 @@
+# Tent
+
+item tent {
+    weight = 1lb 7.8oz
+    desc = MSR Hubba Hubba
+
+    item sack { weight = 1.65oz }
+    item fly { weight = 1lb 10oz }
+    item cord { weight = 0.4oz }
+    item ground_sheet {
+        weight = 6.85oz
+
+        item sack { weight = 0.6oz }
+    }
+    item poles {
+        weight = 1lb0.25oz
+
+        item sack { weight = 0.6oz }
+        item break_fix { weight = 0.4oz }
+    }
+    item stake {
+        weight = 0.35oz
+
+        item sack { weight = 0.25oz }
+    }
+}
+
+item tent_1p {
+    weight = 3lb 7oz
+    desc = REI Quarter Dome T1 !!SPEC_WEIGHT!!
+
+    #item sack { } 
+    #item fly { }
+    #item cord { }
+    item footprint {
+        weight = 5oz
+        desc = !!SPEC_WEIGHT!!
+    }
+    #item poles { }
+    #item stake { }
+}
+
+
+# Main
+
+item sleeping_bag {
+    weight = 1lb12.85oz
+    desc = REI Sub Kilo +20 Regular
+
+    item sack { weight = 2.2oz }
+}
+
+item pillow {
+    weight = 3.85oz
+    desc = Cocoon Ultralight Air-Core
+}
+
+item sleeping_pad {
+    weight = 3.65oz
+    desc = GossamerGear Nightlight (Torso Length) !!SPEC_WEIGHT!! **TO_BUY**
+
+    item cord {
+        weight = 0.3oz
+        desc = 550 cord
+    }
+}
+
+item backpack {
+    weight = 22.3oz
+    volume = 52L
+    desc = GossamerGear Mariposa Plus M !!SPEC_WEIGHT!! **TO_BUY**
+}
+
+item daypack {
+    weight = 10oz
+    desc = REI Flash 18L !!SPEC_WEIGHT!!
+}
+
+item bladder {
+    weight = 6.5oz
+    volume = 3L
+    desc = Camelbak
+}
+
+item chair {
+    weight = 10.7oz
+    desc = Therm-A-Rest Trekker Chair 20in
+}
+
+
+# Clothes
+
+item cap {
+    weight = 2.95oz
+    desc = Outdoor Research Sun Runner XL
+}
+item fleece {
+    weight = 15oz
+    desc = The North Face Pumori S
+}
+item jacket {
+    weight = 9.5oz
+    desc = Patagonia Nano Puff Pullover S !!SPEC_WEIGHT!! **TO_BUY**
+}
+item shell {
+    weight = 11.85oz
+    desc = Patagonia Torrentshell S
+}
+item beanie {
+    weight = 2.05oz
+    desc = Mountain Hardware Dome Perignon S
+}
+item gloves::mid {
+    weight = 1.9oz
+    desc = Black Diamond Midweight L
+}
+item gloves::heavy {
+    weight = 9.45oz
+    desc = Scott T-32deg XL
+}
+item thermal::top {
+    weight = 8oz
+    desc = SmartWool Midweight M
+}
+item thermal::bottom {
+    weight = 7.4oz
+    desc = SmartWool Midweight M
+}
+item socks::light {
+    weight = 3.2oz
+    desc = SmartWool Hiking Light Cushion L
+}
+item socks::liners {
+    weight = 0.85oz
+    desc = REI CoolMax?
+}
+item underwear {
+    weight = 2.8oz
+    desc = ExOfficio Boxer Briefs M
+}
+item bug::net {
+    weight = 0.9oz
+    desc = Sea to Summit Mosquito Head Net
+}
+
+
+# Accessories
+item headlamp {
+    weight = 3.3oz
+    desc = Petzl Tikka XP 2 !!ESTIMATED_WEIGHT!!
+}
+item sun_glasses {
+    weight = 0.85oz
+    desc = Smith Parallel D-Max Polarized
+
+    item hard_case { weight = 2.35oz }
+    item soft_case { weight = 0.3oz }
+}
+item camera {
+    weight = 4.95oz
+    desc = Canon PowerShot SD400
+
+    item battery {
+        weight = 0.6oz
+        desc = Canon NB-4L
+    }
+    item memory {
+        desc = SD Card 2GB MAX
+    }
+}
+item camp_shoes {
+    weight = 8.75oz
+    desc = K-Mart Protege Sandals
+}
+item ice_axe {
+    weight = 15.2oz
+    desc = Black Diamond Raven Pro 65cm
+}
+item crampons {
+    weight = 2lb1.05oz
+    desc = Petzl Vasak ???
+}
+item gaiters {
+    weight = 10.6oz
+    desc = Outdoor Research ???
+}
+item watch {
+    weight = 2.35oz
+    desc = Highgear AltiForce
+}
+item biner::nano {
+    weight = 23g
+    desc = Camp Nano 23
+}
+
+
+
+# First Aid
+
+item foot::powder {
+    weight = 4.1oz
+    desc = Nalgene Wide-Mouth Small ???
+}
+
+
+
+# Consumables
+
+item food {
+    weight = 1.5lb
+    desc = 1.5lb/day
+}
+item fuel {
+    weight = 12.65oz
+    volume = 8floz
+    desc = MSR Isopro
+}
+item water {
+    weight = 2.20462262lb
+    volume = 1L
+}
+
+
+# Kitchen
+item bear_can {
+    weight = 1lb14.7oz
+    desc = Bearikade Weekender (6 man days)
+}
+item mug_pot {
+    weight = 2.6oz
+    volume = 550ml
+    desc = Evernew Ultralight Titanium Mug Pot 500
+}
+item spoon {
+    weight = 0.3oz
+    desc = REI Lexan
+
+    item long {
+        weight = 0.5oz
+        desc = REI Ti Ware !!ESTIMATED_WEIGHT!!
+    }
+}
+item stove {
+    weight = 3oz
+    desc = Soto OD-1R
+}
+item mug {
+    weight = 2.4oz
+    volume = 14floz
+    desc = Snow Peak Ti Single 450
+}
+item filter {
+    weight = 15.3oz
+    desc = MSR MiniWorks EX
+
+    item guage { weight = 0.15oz }
+    item scrubber { weight = 0.15oz }
+    item sack { weight = 0.9oz }
+    item drops { 
+        weight = 2oz
+        desc = Aquamira !!SPEC_WEIGHT!!
+    }
+}
+item bottle {
+    weight = 1.8oz
+    volume = 32floz
+    desc = Gatorade Bottle !!SPEC_WEIGHT!!
+}
+item bottle::nalgene {
+    weight = 3.8oz
+    volume = 32floz
+    desc = Nalgene Wide Mouth
+}
+item bowl {
+    weight = 1.5oz
+    desc = GSI
+}
+item cutting_board {
+    weight = 2.5oz
+    desc = REI 
+}
+
+
+
+
+# Toiletries
+
+item nail::file {
+    weight = 0.2oz
+    desc = Revlon Shaping
+}
+item nail::clipper {
+    weight = 1.55oz
+    desc = Trim
+}
+item tooth_brush {
+    weight = 0.45oz
+}
+item towel {
+    weight = 2.05oz
+    desc = REI
+}
+item towel::sack {
+    weight = 0.3oz
+}
+item floss {
+    weight = 0.6oz
+    desc = Oral-B Glide Pro-Health Clean Mint
+}
+item bug::spray {
+    weight = 1.05oz
+    volume = 14mL
+    desc = REPEL Lemon Eucalyptus
+}
+
+
+# Misc
+
+item knife {
+    weight = 2.5oz
+    desc = ESEE Izula Black
+
+    item sheath { weight = 0.9oz }
+}

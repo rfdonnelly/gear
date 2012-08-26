@@ -1,0 +1,39 @@
+misc
++1 rope::reynold
++1 shoes
++1 helmet
+
+harness
++1 harness
++1 cordellete
++1 self_rescue
++1 belay_device
++1 biner::belay
++1 biner::locking
++1 nut_tool
+
+draws
++9 sling::single
++2 sling::double
++9 biner
++5 biner
+
+hexes
++1 hex::3
++1 hex::4
++1 hex::5
++1 hex::6
++1 hex::7
+
+pro
++1 nuts
++1 section::hexes
++1 cams
+
+total
++1 section::misc
++1 section::harness
++1 section::draws
++1 section::pro
+
+

@@ -1,0 +1,142 @@
+TENT_A
+ +1 Tent                                 1lb 7.8oz -- MSR Hubba Hubba
+ +1 Tent Poles                           1lb 0.2oz
+SUBTOTAL                                 2lb 8.0oz
+
+TENT_B
+ +1 Tent Fly                            1lb 10.0oz
+ +1 Tent Ground Sheet                        6.8oz
+ +1 Tent Poles Break Fix                     0.4oz
+ +6 Tent Stake                               2.1oz
+SUBTOTAL                                 2lb 3.4oz
+
+TENT
+ +1 TENT_A                               2lb 8.0oz
+ +1 TENT_B                               2lb 3.4oz
+SUBTOTAL                                4lb 11.4oz
+
+MAIN
+# +1 Sleeping Bag                        1lb 12.9oz -- REI Sub Kilo +20 Regular
+# +1 Sleeping Bag Sack                        2.2oz
+# +1 Pillow                                   3.9oz -- Cocoon Ultralight Air-Core
+# +1 Sleeping Pad                         1lb 0.6oz -- Therm-A-Rest Prolite Regular
+# +1 Sleeping Pad Cord                        0.3oz -- 550 cord
+# +1 Backpack                            3lb 12.0oz -- Osprey Variant Regular !!SPEC_WEIGHT!!
+# +1 Daypack                                 10.0oz -- REI Flash 18L !!SPEC_WEIGHT!!
+# +1 Bladder                                  6.5oz -- Camelbak
+# +1 Chair                                   10.7oz -- Therm-A-Rest Trekker Chair 20in
+SUBTOTAL                                8lb 11.0oz
+
+TOILETRIES
+# +1 Tooth Brush                              0.5oz
+# +1 Floss                                    0.6oz -- Oral-B Glide Pro-Health Clean Mint
+# +1 Tooth Paste                                TBD
+# +1 Sun Screen                                 TBD
+# +1 Towel                                    2.0oz -- REI
+# +1 Towel Sack                               0.3oz
+# +1 Hand Sanitizer                             TBD
+#+15 Tp                                         TBD
+# +5 Wipes                                      TBD
+# +1 Bug Spray                                1.1oz -- REPEL Lemon Eucalyptus
+# +3 Chapstick                                  TBD
+SUBTOTAL                                     4.5oz
+
+FIRST_AID
+#+16 Ibuprofen                                  TBD
+# +5 Band Aids                                  TBD
+# +5 Bandages                                   TBD
+# +5 Alcohol Wipes                              TBD
+# +1 Foot Powder                              4.1oz -- Nalgene Wide-Mouth Small ???
+# +1 Duct Tape                                  TBD
+SUBTOTAL                                     4.1oz
+
+KITCHEN
+# +1 Bear Can                            1lb 14.7oz -- Bearikade Weekender (6 man days)
+# +1 Pot                                      5.9oz -- Evernew Nonstick Titanium 1.1L?
+# +1 Bowl                                     1.5oz -- GSI
+# +1 Mug                                      2.4oz -- Snow Peak Ti Single 450
+ +2 Bottle Gatorade                          3.6oz -- Gatorade Bottle !!SPEC_WEIGHT!!
+# +1 Spoon                                    0.3oz -- REI Lexan
+# +1 Stove                                    3.0oz -- Soto OD-1R
+ +1 Sponge                                     TBD
+# +1 Filter                                  15.3oz -- MSR MiniWorks EX
+# +1 Filter Scrubber                          0.1oz
+SUBTOTAL                                3lb 14.9oz
+
+CLOTHES
+# +1 Cap                                      3.0oz -- Outdoor Research Sun Runner XL
+# +1 Beanie                                   2.0oz -- Mountain Hardware Dome Perignon S
+# +1 Gloves Mid                               1.9oz -- Black Diamond Midweight L
+ +1 Fleece                                  15.0oz -- The North Face Pumori S
+# +1 Shell                                   11.8oz -- Patagonia Torrentshell S
+# +1 Thermal Top                              8.0oz -- SmartWool Midweight M
+# +1 Thermal Bottom                           7.4oz -- SmartWool Midweight M
+# +1 Shirt                                      TBD
+# +1 Pants                                      TBD
+# +1 Underwear                                2.8oz -- ExOfficio Boxer Briefs M
+# +2 Socks Light                              6.4oz -- SmartWool Hiking Light Cushion L
+# +2 Socks Liners                             1.7oz -- REI CoolMax?
+# +1 Buff                                       TBD
+# +1 Bug Net                                  0.9oz -- Sea to Summit Mosquito Head Net
+SUBTOTAL                                3lb 12.9oz
+
+CLOTHES_PACK
+ +1 CLOTHES                             3lb 12.9oz
+ -1 Shirt                                      TBD
+ -1 Pants                                      TBD
+ -1 Cap                                      3.0oz -- Outdoor Research Sun Runner XL
+ -1 Socks Light                              3.2oz -- SmartWool Hiking Light Cushion L
+ -1 Socks Liners                             0.8oz -- REI CoolMax?
+SUBTOTAL                                 3lb 5.9oz
+
+ACCESSORIES
+# +1 Headlamp                                   TBD
+# +1 Sun Glasses                              0.8oz -- Smith Parallel D-Max Polarized
+# +1 Sun Glasses Soft Case                    0.3oz
+# +1 Maps                                       TBD
+# +1 Camera                                   5.0oz -- Canon PowerShot SD400
+# +1 Camera Battery                           0.6oz
+# +1 Knife                                    2.5oz -- ESEE Izula Black
+# +1 Knife Sheath                             0.9oz
+# +1 Camp Shoes                               8.8oz -- K-Mart Protege Sandals
+# +1 Watch                                    2.4oz -- Highgear AltiForce
+# +1 Boots                                      TBD
+# +1 Trekking Poles                             TBD
+# +2 Biner Nano                               0.0oz -- Camp Nano 23
+SUBTOTAL                                 1lb 5.2oz
+
+ACCESSORIES_PACK
+ +1 ACCESSORIES                          1lb 5.2oz
+ -1 Sun Glasses                              0.8oz -- Smith Parallel D-Max Polarized
+ -1 Watch                                    2.4oz -- Highgear AltiForce
+ -1 Boots                                      TBD
+ -1 Trekking Poles                             TBD
+ -1 Camera                                   5.0oz -- Canon PowerShot SD400
+SUBTOTAL                                    13.1oz
+
+CONSUMABLES
+ +1 Fuel                                    12.7oz -- MSR Isopro
+ +2 Water                                4lb 6.5oz
+ +4 Food                                 6lb 0.0oz -- 1.5lb/day
+SUBTOTAL                                11lb 3.2oz
+
+BEAR_CAN
+ +1 Bear Can                            1lb 14.7oz -- Bearikade Weekender (6 man days)
+ +4 Food                                 6lb 0.0oz -- 1.5lb/day
+SUBTOTAL                                7lb 14.7oz
+
+PACK_DRY
+ +1 TENT                                4lb 11.4oz
+ +1 MAIN                                8lb 11.0oz
+ +1 KITCHEN                             3lb 14.9oz
+ +1 TOILETRIES                               4.5oz
+ +1 FIRST_AID                                4.1oz
+ +1 CLOTHES_PACK                         3lb 5.9oz
+ +1 ACCESSORIES_PACK                        13.1oz
+SUBTOTAL                                22lb 0.8oz
+
+PACK_TOTAL
+ +1 PACK_DRY                            22lb 0.8oz
+ +1 CONSUMABLES                         11lb 3.2oz
+SUBTOTAL                                33lb 3.9oz
+

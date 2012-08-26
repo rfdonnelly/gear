@@ -1,0 +1,92 @@
+Tent
+tent;1lb7.8oz;MSR Hubba Hubba
+tent::sack;1.65oz
+tent::fly;1lb10oz
+tent::ground_sheet;6.85oz
+tent::ground_sheet::sack;0.6oz
+tent::poles;1lb0.25oz
+tent::poles::sack;0.6oz
+tent::stake;0.35oz
+tent::stake::sack;0.25oz
+tent::poles::break_fix;0.4oz
+tent::cord;0.4oz
+
+Main
+sleeping_bag;1lb12.85oz;REI Sub Kilo +20 Regular
+sleeping_bag::sack;2.2oz
+pillow;3.85oz;Cocoon Ultralight Air-Core
+sleeping_pad;1lb0.55oz;Therm-A-Rest Prolite Regular
+sleeping_pad::cord;0.3oz;550 cord
+backpack;3lb12oz;52L;Osprey Variant Regular !!SPEC_WEIGHT!!
+daypack;10oz;REI Flash 18L !!SPEC_WEIGHT!!
+bladder;6.5oz;3L;Camelbak
+chair;10.7oz;Therm-A-Rest Trekker Chair 20in
+
+Clothes
+cap;2.95oz;Outdoor Research Sun Runner XL
+fleece;15oz;The North Face Pumori S
+shell;11.85oz;Patagonia Torrentshell S
+beanie;2.05oz;Mountain Hardware Dome Perignon S
+gloves::mid;1.9oz;Black Diamond Midweight L
+gloves::heavy;9.45oz;Scott T-32deg XL
+thermal::top;8oz;SmartWool Midweight M
+thermal::bottom;7.4oz;SmartWool Midweight M
+socks::light;3.2oz;SmartWool Hiking Light Cushion L
+socks::heavy;3.2oz;SmartWool Expedition?
+socks::liners;0.85oz;REI CoolMax?
+underwear;2.8oz;ExOfficio Boxer Briefs M
+bug::net;0.9oz;Sea to Summit Mosquito Head Net
+bug::shirt;8.3oz;ExOfficio Insect Shield S
+clothes::sack;1.6oz;10L;REI
+
+Accessories
+sun_glasses;0.85oz;Smith Parallel D-Max Polarized
+sun_glasses::hard_case;2.35oz
+sun_glasses::soft_case;0.3oz
+camera;4.95oz;Canon PowerShot SD400
+camera::battery;0.6oz;Canon NB-4L
+camera::memory;SD Card 2GB MAX
+camp_shoes;8.75oz;K-Mart Protege Sandals
+ice_axe;15.2oz;Black Diamond Raven Pro 65cm
+crampons;2lb1.05oz;Petzl Vasak ???
+gaiters;10.6oz;Outdoor Research ???
+watch;2.35oz;Highgear AltiForce
+biner::nano;23g;Camp Nano 23
+
+First_Aid
+foot::powder;4.1oz;Nalgene Wide-Mouth Small ???
+
+Consumables
+food;1.5lb;1.5lb/day
+fuel;12.65oz;8floz;MSR Isopro
+water;2.20462262lb;1L
+
+Kitchen
+bear_can;1lb14.7oz;Bearikade Weekender (6 man days)
+pot;5.9oz;Evernew Nonstick Titanium 1.1L?
+kettle;5.5oz;GSI Hae Tea Kettle 0.95L !!SPEC_WEIGHT!!
+fork;0.35oz;REI Lexan
+spoon;0.3oz;REI Lexan
+stove;3oz;Soto OD-1R
+mug;2.4oz;14floz;Snow Peak Ti Single 450
+filter;15.3oz;MSR MiniWorks EX
+filter::guage;0.15oz
+filter::scrubber;0.15oz
+filter::sack;0.9oz
+bottle;3.8oz;32floz;Nalgene Wide Mouth
+bottle::gatorade;1.8oz;32floz;Gatorade Bottle !!SPEC_WEIGHT!!
+bowl;1.5oz;GSI
+cutting_board;2.5oz;REI 
+
+toiletries
+nail::file;0.2oz;Revlon Shaping
+nail::clipper;1.55oz;Trim
+tooth_brush;0.45oz
+towel;2.05oz;REI
+towel::sack;0.3oz
+floss;0.6oz;Oral-B Glide Pro-Health Clean Mint
+bug::spray;1.05oz;14mL;REPEL Lemon Eucalyptus
+
+misc
+knife;2.5oz;ESEE Izula Black
+knife::sheath;0.9oz

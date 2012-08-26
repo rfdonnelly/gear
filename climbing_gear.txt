@@ -1,0 +1,44 @@
+MISC
+ +1 Rope Reynold                         8lb 5.3oz -- Petzl Nomad 9.8mm 60m !!SPEC_WEIGHT!! 
+ +1 Shoes                                1lb 6.3oz -- La Sportiva Mythos Mens 10 
+ +1 Helmet                                   8.0oz -- Petzl Meteor 3 
+SUBTOTAL                                10lb 3.5oz
+
+HARNESS
+ +1 Harness                                 14.0oz -- Black Diamond Momentum AL M 
+ +1 Cordellete                               7.5oz -- ~21ft 6mm w/ Camp Nano 23 Biner 
+ +1 Self Rescue                             11.8oz -- foot & harness prusik, webbing, rap ring and biner 
+ +1 Belay Device                             3.2oz -- Black Diamond Guide XP 
+ +1 Biner Belay                              3.1oz -- Black Diamond RockLock Screwgate 
+ +1 Biner Locking                            1.8oz -- Black Diamond VaporLock Screwgate 
+ +1 Nut Tool                                 3.9oz -- Wild Country Pro-Key 
+SUBTOTAL                                2lb 13.3oz
+
+DRAWS
+ +9 Sling Single                             6.0oz -- Black Diamond Dynex 60cm 
+ +2 Sling Double                             2.8oz -- Black Diamond Dynex 120cm 
+ +9 Biner                                    7.3oz -- Camp Nano 23 
+ +5 Biner                                    4.1oz -- Camp Nano 23 
+SUBTOTAL                                 1lb 4.1oz
+
+HEXES
+ +1 Hex 3                                    1.2oz -- Wild Country Rockcentric 3 Gold 
+ +1 Hex 4                                    1.5oz -- Wild Country Rockcentric 4 Silver 
+ +1 Hex 5                                    1.9oz -- Wild Country Rockcentric 5 Green 
+ +1 Hex 6                                    2.4oz -- Wild Country Rockcentric 6 Red 
+ +1 Hex 7                                    3.2oz -- Wild Country Rockcentric 7 Gold 
+SUBTOTAL                                    10.3oz
+
+PRO
+ +1 Nuts                                    15.6oz -- Black Diamond Stopper Set 4-13 
+ +1 HEXES                                   10.3oz
+ +1 Cams                                       TBD
+SUBTOTAL                                 1lb 9.9oz
+
+TOTAL
+ +1 MISC                                10lb 3.5oz
+ +1 HARNESS                             2lb 13.3oz
+ +1 DRAWS                                1lb 4.1oz
+ +1 PRO                                  1lb 9.9oz
+SUBTOTAL                               15lb 14.8oz
+

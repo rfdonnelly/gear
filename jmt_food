@@ -1,0 +1,31 @@
+breakfast_0
++2 oatmeal::albertsons
++1 tea
++1 sweetener
+
+lunch_0
++1 bar::fiber
+
+breakfast_1
++1.5 oatmeal::active
++1 tea
++1 sweetener
+
+lunch_1
++1 bar::cereal
+
+breakfast_2
++2 oatmeal::albertsons
++1 tea
++1 sweetener
+
+breakfast_3
++1.5 oatmeal::active
++1 tea
++1 sweetener
+
+initial_package
++1 breakfast_0
++1 breakfast_1
++1 breakfast_2
++1 breakfast_3

@@ -1,0 +1,111 @@
+# Climbing Gear
+item rope {
+    weight = 8.99lbs
+    desc = Mammut Matterhorn 10.2mm 60m !!SPEC_WEIGHT!!
+
+    item reynold {
+        weight = 8.333lbs
+        desc = Petzl Nomad 9.8mm 60m !!SPEC_WEIGHT!!
+    }
+}
+
+item rock_shoes {
+    weight = 1lb6.25oz
+    desc = La Sportiva Mythos Mens 10
+}
+
+item harness {
+    weight = 14oz
+    desc = Black Diamond Momentum AL M
+}
+
+item helmet {
+    weight = 7.95oz
+    desc = Petzl Meteor 3
+}
+
+item cordellete {
+    weight = 7.5oz
+    desc = ~21ft 6mm w/ Camp Nano 23 Biner
+}
+
+item self_rescue {
+    weight = 11.8oz
+    desc = foot & harness prusik, webbing, rap ring and biner
+}
+
+item belay_device {
+    weight = 3.2oz
+    desc = Black Diamond Guide XP
+}
+
+item nut_tool {
+    weight = 3.9oz
+    desc = Wild Country Pro-Key
+}
+
+item biner {
+    weight = 23g
+    desc = Camp Nano 23
+
+    item locking {
+        weight = 1.8oz
+        desc = Black Diamond VaporLock Screwgate
+
+        item small {
+            # weight = FIXME
+            desc = Madrock??
+        }
+    }
+    item belay {
+        weight = 3.1oz
+            desc = Black Diamond RockLock Screwgate
+    }
+}
+
+item nuts {
+    weight = 1lb0.6oz
+    desc = Black Diamond Stopper Set 4-13
+}
+
+item hex {
+    item 3 {
+        weight = 34g
+        desc = Wild Country Rockcentric 3 Gold
+    }
+    item 4 {
+        weight = 43g
+        desc = Wild Country Rockcentric 4 Silver
+    }
+    item 5 {
+        weight = 54g
+        desc = Wild Country Rockcentric 5 Green
+    }
+    item 6 {
+        weight = 69g
+        desc = Wild Country Rockcentric 6 Red
+    }
+    item 7 {
+        weight = 91g
+        desc = Wild Country Rockcentric 7 Gold
+    }
+    item 8 {
+        weight = 118g
+        desc = Wild Country Rockcentric 8 Blue
+    }
+    item 9 {
+        weight = 156g
+        desc = Wild Country Rockcentric 9 Violet
+    }
+}
+
+item sling {
+    item single {
+        weight = 19g
+        desc = Black Diamond Dynex 60cm
+    }
+    item double {
+        weight = 39g
+        desc = Black Diamond Dynex 120cm
+    }
+}

@@ -1,0 +1,130 @@
+TENT
+* +1 Tent 1p                              3lb 7.0oz -- REI Quarter Dome T1 !!SPEC_WEIGHT!! 
+* +1 Tent 1p Sack                               TBD
+* +1 Tent 1p Fly                                TBD
+* +1 Tent 1p Cord                               TBD
+* +1 Tent 1p Footprint                        5.0oz -- !!SPEC_WEIGHT!! 
+* +1 Tent 1p Poles                              TBD
+* +5 Tent 1p Stake                              TBD
+SUBTOTAL                                3lb 12.0oz
+
+MAIN
+* +1 Sleeping Bag                        1lb 12.9oz -- REI Sub Kilo +20 Regular 
+* +1 Sleeping Bag Sack                        2.2oz
+* +1 Pillow                                   3.9oz -- Cocoon Ultralight Air-Core 
+* +1 Sleeping Pad                         1lb 0.6oz -- Therm-A-Rest Prolite Regular 
+* +1 Sleeping Pad Cord                        0.3oz -- 550 cord 
+* +1 Backpack                            3lb 12.0oz -- Osprey Variant Regular !!SPEC_WEIGHT!! 
+* +1 Bladder                                  6.5oz -- Camelbak 
+SUBTOTAL                                 7lb 6.3oz
+
+TOILETRIES
+* +1 Tooth Brush                              0.5oz
+* +1 Floss                                    0.6oz -- Oral-B Glide Pro-Health Clean Mint 
+* +1 Tooth Paste                                TBD
+* +1 Sun Screen                                 TBD
+* +1 Towel                                    2.0oz -- REI 
+* +1 Towel Sack                               0.3oz
+* +1 Hand Sanitizer                             TBD
+* +1 Lotion                                     TBD
+* +1 Tp                                         TBD
+* +5 Wipes                                      TBD
+* +1 Bug Spray                                1.1oz -- REPEL Lemon Eucalyptus 
+* +3 Chapstick                                  TBD
+SUBTOTAL                                     3.4oz
+
+FIRST_AID
+*+16 Ibuprofen                                  TBD
+* +5 Band Aids                                  TBD
+* +5 Bandages                                   TBD
+* +5 Alcohol Wipes                              TBD
+* +1 Foot Powder                              4.1oz -- Nalgene Wide-Mouth Small ??? 
+* +1 Duct Tape                                  TBD
+SUBTOTAL                                     4.1oz
+
+KITCHEN
+* +1 Bear Can                            1lb 14.7oz -- Bearikade Weekender (6 man days) 
+* +1 Kettle                                   5.5oz -- GSI Hae Tea Kettle 0.95L !!SPEC_WEIGHT!! 
+* +1 Bowl                                     1.5oz -- GSI 
+* +1 Mug                                      2.4oz -- Snow Peak Ti Single 450 
+ +1 Bottle Gatorade                          1.8oz -- Gatorade Bottle !!SPEC_WEIGHT!! 
+* +1 Bottle                                   3.8oz -- Nalgene Wide Mouth 
+* +1 Spoon Long                               0.5oz -- REI Ti Ware !!ESTIMATED_WEIGHT!! 
+* +1 Stove                                    3.0oz -- Soto OD-1R 
+ +1 Sponge                                     TBD
+SUBTOTAL                                 3lb 1.0oz
+
+CLOTHES
+* +1 Cap                                      3.0oz -- Outdoor Research Sun Runner XL 
+* +1 Beanie                                   2.0oz -- Mountain Hardware Dome Perignon S 
+ +1 Gloves Mid                               1.9oz -- Black Diamond Midweight L 
+* +1 Fleece                                  15.0oz -- The North Face Pumori S 
+* +1 Shirt                                      TBD
+* +1 Pants                                      TBD
+* +1 Underwear                                2.8oz -- ExOfficio Boxer Briefs M 
+* +2 Socks Light                              6.4oz -- SmartWool Hiking Light Cushion L 
+* +2 Socks Liners                             1.7oz -- REI CoolMax? 
+ +1 Buff                                       TBD
+SUBTOTAL                                 2lb 0.8oz
+
+CLOTHES_PACK
+ +1 CLOTHES                              2lb 0.8oz
+ -1 Shirt                                      TBD
+ -1 Pants                                      TBD
+ -1 Cap                                      3.0oz -- Outdoor Research Sun Runner XL 
+ -1 Socks Light                              3.2oz -- SmartWool Hiking Light Cushion L 
+ -1 Socks Liners                             0.8oz -- REI CoolMax? 
+ -1 Underwear                                2.8oz -- ExOfficio Boxer Briefs M 
+SUBTOTAL                                 1lb 7.0oz
+
+ACCESSORIES
+* +1 Headlamp                                 3.3oz -- Petzl Tikka XP 2 !!ESTIMATED_WEIGHT!! 
+* +1 Sun Glasses                              0.8oz -- Smith Parallel D-Max Polarized 
+* +1 Sun Glasses Soft Case                    0.3oz
+* +1 Maps                                       TBD
+* +1 Camera                                   5.0oz -- Canon PowerShot SD400 
+* +1 Camera Battery                           0.6oz -- Canon NB-4L 
+* +1 Knife                                    2.5oz -- ESEE Izula Black 
+* +1 Knife Sheath                             0.9oz
+ +1 Camp Shoes                               8.8oz -- K-Mart Protege Sandals 
+* +1 Watch                                    2.4oz -- Highgear AltiForce 
+ +1 Boots                                      TBD
+ +1 Trekking Poles                             TBD
+ +2 Biner Nano                               1.6oz -- Camp Nano 23 
+SUBTOTAL                                 1lb 6.8oz
+
+ACCESSORIES_PACK
+ +1 ACCESSORIES                          1lb 6.8oz
+ -1 Sun Glasses                              0.8oz -- Smith Parallel D-Max Polarized 
+ -1 Watch                                    2.4oz -- Highgear AltiForce 
+ -1 Boots                                      TBD
+ -1 Trekking Poles                             TBD
+ -1 Camera                                   5.0oz -- Canon PowerShot SD400 
+SUBTOTAL                                    14.7oz
+
+CONSUMABLES
+ +1 Fuel                                    12.7oz -- MSR Isopro 
+ +2 Water                                4lb 6.5oz
+ +3 Food                                 4lb 8.0oz -- 1.5lb/day 
+SUBTOTAL                                9lb 11.2oz
+
+BEAR_CAN
+ +1 Bear Can                            1lb 14.7oz -- Bearikade Weekender (6 man days) 
+ +3 Food                                 4lb 8.0oz -- 1.5lb/day 
+SUBTOTAL                                 6lb 6.7oz
+
+PACK_DRY
+ +1 TENT                                3lb 12.0oz
+ +1 MAIN                                 7lb 6.3oz
+ +1 KITCHEN                              3lb 1.0oz
+ +1 TOILETRIES                               3.4oz
+ +1 FIRST_AID                                4.1oz
+ +1 CLOTHES_PACK                         1lb 7.0oz
+ +1 ACCESSORIES_PACK                        14.7oz
+SUBTOTAL                                17lb 0.4oz
+
+PACK_TOTAL
+ +1 PACK_DRY                            17lb 0.4oz
+ +1 CONSUMABLES                         9lb 11.2oz
+SUBTOTAL                               26lb 11.6oz
+
