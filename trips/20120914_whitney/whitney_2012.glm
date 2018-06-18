@@ -1,6 +1,10 @@
 group TENT {
-    +1 tent_ren
-    +1 tent_ren::footprint
+    +1 tent::body
+    +1 tent::fly
+    +1 tent::cord
+    +1 tent::footprint
+    +1 tent::poles
+    +6 tent::stake
 }
 
 group SLEEP_ROB {
@@ -11,27 +15,34 @@ group SLEEP_ROB {
     +1 sleeping_pad::straps
 }
 
-group SLEEP_SHARED_REN {
+group SLEEP_SHARED_ROB {
     +1 TENT
 }
 
 group SLEEP_SHARED {
-    +1 SLEEP_SHARED_REN
+    +1 SLEEP_SHARED_ROB
 }
 
 group CLIMBING_HARNESS_ROB {
     +1 harness
     +1 belay_device
     +1 nut_tool
-    #+1 self_rescue # FIXME move to shared and bring one set?
+    +1 self_rescue # FIXME move to shared and bring one set?
     +1 biner::belay
     +1 biner::locking # tie in biner
     +1 biner::locking::small # autoblock biner
 }
 
-group CLIMBING_DRAWS {
-    +8 sling::single
-    +16 biner   # 2 per single length sling for alpine draws
+group CLIMBING_SLINGS {
+    # for cams
+    +5 sling::single
+    +5 biner
+
+    # for passive pro
+    +5 sling::single
+    +10 biner
+
+    # for anchors
     +2 sling::double
     +2 biner    # 1 per double length sling
 }
@@ -42,11 +53,21 @@ group CLIMBING_HEXES {
     +1 hex::5
     +1 hex::6
     +1 hex::7
+    +1 biner
+}
+
+group CLIMBING_CAMS {
+    +1 cam::0.5
+    +1 cam::0.75
+    +1 cam::1
+    +1 cam::2
+    +1 cam::3
 }
 
 group CLIMBING_PRO {
     +1 nuts
     +1 CLIMBING_HEXES
+    +1 CLIMBING_CAMS
 }
 
 group CLIMBING_ROB {
@@ -57,16 +78,16 @@ group CLIMBING_ROB {
 
 group CLIMBING_SHARED_ROB {
     +1 CLIMBING_PRO
-    +1 CLIMBING_DRAWS
+    +1 CLIMBING_SLINGS
 }
 
-group CLIMBING_SHARED_REN {
-    +1 rope_ren
+group CLIMBING_SHARED_JUSTIN {
+    +1 rope_justin
 }
 
 group CLIMBING_SHARED {
     +1 CLIMBING_SHARED_ROB
-    +1 CLIMBING_SHARED_REN
+    +1 CLIMBING_SHARED_JUSTIN
 }
 
 group TOILETRIES_ROB {
@@ -101,20 +122,15 @@ group KITCHEN_ROB {
 }
 
 group KITCHEN_SHARED_ROB {
-    +1 bear_can
-    #+1 kettle # bring ren's pot instead
-    +1 pot_ren
+    #+1 bear_can # FIXME bring stuff sack instead
+    +1 pot
     +1 stove
     +1 sponge
-}
-
-group KITCHEN_SHARED_REN {
-    +1 filter_ren
+    +1 water_drops
 }
 
 group KITCHEN_SHARED {
     +1 KITCHEN_SHARED_ROB
-    +1 KITCHEN_SHARED_REN
 }
 
 group CLOTHES_ROB {
@@ -123,17 +139,17 @@ group CLOTHES_ROB {
     +1 gloves::mid
     +1 fleece
     +1 shell
-    #+1 thermal::top # will use fleece instead
+    #+1 thermal::top # will use nano puff instead
     #+1 thermal::bottom # will use guide pants instead
     +1 shirt::base
-    +1 shirt::short_sleeve
+    #+1 shirt::short_sleeve 
     +1 pants::guide
     +1 shorts
     +1 underwear
     +2 socks::light
     +2 socks::liners
     +1 buff
-    +1 bug::net # FIXME didn't use last time
+    +1 bug::net # FIXME won't need due to elevation & time of year
 }
 
 group CLOTHES_PACK_ROB {
@@ -153,10 +169,11 @@ group ACCESSORIES_ROB {
     +1 maps
     +1 camera
     +1 camera::battery
+    +1 dslr
     +1 knife
     +1 knife::sheath
-    #+1 camp_shoes # don't bring
-    #+1 watch # FIXME don't have
+    +1 camp_shoes # FIXME don't bring?
+    +1 watch # FIXME don't have
     +1 boots
     +1 trekking_poles
     +2 biner
@@ -219,35 +236,6 @@ group TOTAL_SHARED_ROB {
     +1 CONSUMABLES_SHARED_ROB
 }
 
-group TOTAL_SHARED_REN {
-    +1 SLEEP_SHARED_REN
-    +1 CLIMBING_SHARED_REN
-    +1 KITCHEN_SHARED_REN
+group TOTAL_SHARED_JUSTIN {
+    +1 CLIMBING_SHARED_JUSTIN
 }
-
-
-#
-#Gear Weight:
-#(All Measurements are to a tenth of a pound & represent a true pack weight with all accessories included)
-#
-#
-#3.9 - 2p BP Tent- Skyledge 2.1
-#0.4 - 2p Footprint- MSR Hubba Hubba 
-#0.4- Pot- GSI Pinnacle Soloist (1.1L)
-#9.0 - Rope- Petzel Nomad 9.8mm
-#0.9 - Water Filter- Katadyn Hiker Pro
-#0.3- Wash Blatter- MSR Dromlite Bag (6L)
-#
-#Total Weight = 14.9 lbs
-
-# NOTES:
-
-# My estimated starting pack weight is 40lbs. This is includes 2L of water.
-
-# Volume
-# I am concerned about food and trash volume.  This is an 8 man day trip.  While we don't need to fit 8 man days worth of food into the bear bin, we still need to fit at least 6 man days worth of food and trash.  Remember how difficult it was to fit 4 man days of food in the bearikade?
-
-# * ALL dehydrated meals should be emptied into zip lock baggies.  Write whatever instructions needed on baggies with Sharpie.  Save one of the original meal bags for rehydrating.
-
-# * We should minimize non-calorie-dense foods.  Instead of bringing two types of triscuts we should only bring one and minimize the amount.  I'm not bringing any hard-boiled eggs on this trip =(.
-

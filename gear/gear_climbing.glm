@@ -2,16 +2,24 @@
 item rope {
     weight = 8.99lbs
     desc = Mammut Matterhorn 10.2mm 60m !!SPEC_WEIGHT!!
+}
 
-    item reynold {
-        weight = 8.333lbs
-        desc = Petzl Nomad 9.8mm 60m !!SPEC_WEIGHT!!
-    }
+item rope_alpine {
+    weight = 8lbs
+    desc = Sterling Fusion Nano Bipattern 9.2mm 60m
+}
+
+item approach_shoes {
+    weight = 1lb12oz
+    desc = FiveTen Guide Tennie 10 !!ESTIMATED_WEIGHT!!
 }
 
 item rock_shoes {
     weight = 1lb6.25oz
     desc = La Sportiva Mythos Mens 10
+}
+
+item topos {
 }
 
 item harness {
@@ -64,7 +72,7 @@ item biner {
 }
 
 item nuts {
-    weight = 1lb0.6oz
+    weight = 15.1oz
     desc = Black Diamond Stopper Set 4-13
 }
 
@@ -96,6 +104,29 @@ item hex {
     item 9 {
         weight = 156g
         desc = Wild Country Rockcentric 9 Violet
+    }
+}
+
+item cam {
+    item 0.5 {
+        weight = 4.3oz
+        desc = Black Diamond C4 0.5 Purple
+    }
+    item 0.75 {
+        weight = 5oz
+        desc = Black Diamond C4 0.75 Green
+    }
+    item 1 {
+        weight = 5.5oz
+        desc = Black Diamond C4 1 Red
+    }
+    item 2 {
+        weight = 6.2oz
+        desc = Black Diamond C4 2 Yellow
+    }
+    item 3 {
+        weight = 7.75oz
+        desc = Black Diamond C4 3 Blue
     }
 }
 

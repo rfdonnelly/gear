@@ -9,7 +9,7 @@ item tent {
     item sack { weight = 1.65oz }
     item fly { weight = 1lb 10oz }
     item cord { weight = 0.4oz }
-    item ground_sheet {
+    item footprint {
         weight = 6.85oz
 
         item sack { weight = 0.6oz }
@@ -231,6 +231,10 @@ item camera {
         desc = SD Card 2GB MAX
     }
 }
+item dslr {
+    weight = 1lb 13.4oz
+    desc = Canon T4i
+}
 item camp_shoes {
     weight = 8.75oz
     desc = K-Mart Protege Sandals
@@ -328,6 +332,10 @@ item filter {
     item guage { weight = 0.15oz }
     item scrubber { weight = 0.15oz }
     item sack { weight = 0.9oz }
+}
+item water_drops {
+    weight = 3oz
+    desc = Aquamira
 }
 item sponge {
     #weight = FIXME
@@ -433,11 +441,6 @@ item knife {
 item rope {
     weight = 8.99lbs
     desc = Mammut Matterhorn 10.2mm 60m !!SPEC_WEIGHT!!
-
-    item reynold {
-        weight = 8.333lbs
-        desc = Petzl Nomad 9.8mm 60m !!SPEC_WEIGHT!!
-    }
 }
 
 item rock_shoes {
@@ -495,7 +498,7 @@ item biner {
 }
 
 item nuts {
-    weight = 1lb0.6oz
+    weight = 15.1oz
     desc = Black Diamond Stopper Set 4-13
 }
 

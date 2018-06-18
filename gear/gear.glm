@@ -9,7 +9,7 @@ item tent {
     item sack { weight = 1.65oz }
     item fly { weight = 1lb 10oz }
     item cord { weight = 0.4oz }
-    item ground_sheet {
+    item footprint {
         weight = 6.85oz
 
         item sack { weight = 0.6oz }
@@ -82,6 +82,13 @@ item backpack {
     weight = 3lb12oz
     volume = 52L
     desc = Osprey Variant Regular !!SPEC_WEIGHT!!
+
+    item valdez {
+        weight = 2lb2oz
+        volume = 40L
+        desc = Cold Cold World Valdez !!SPEC_WEIGHT!!
+    }
+
 }
 
 item daypack {
@@ -111,6 +118,13 @@ item cap {
 item fleece {
     weight = 15oz
     desc = The North Face Pumori S
+}
+item layer {
+    item insulating {
+        item nanopuff {
+            desc = Patagonia Nano Puff Pullover S !!NEED_WEIGHT!!
+        }
+    }
 }
 item shell {
     weight = 11.85oz
@@ -231,6 +245,10 @@ item camera {
         desc = SD Card 2GB MAX
     }
 }
+item dslr {
+    weight = 1lb 13.4oz
+    desc = Canon T4i
+}
 item camp_shoes {
     weight = 8.75oz
     desc = K-Mart Protege Sandals
@@ -328,6 +346,10 @@ item filter {
     item guage { weight = 0.15oz }
     item scrubber { weight = 0.15oz }
     item sack { weight = 0.9oz }
+}
+item water_drops {
+    weight = 3oz
+    desc = Aquamira
 }
 item sponge {
     #weight = FIXME
