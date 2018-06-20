@@ -1,4 +1,7 @@
 # Climbing Gear
+item topos {
+}
+
 item rope {
     weight = 8.99lbs
     desc = Mammut Matterhorn 10.2mm 60m !!SPEC_WEIGHT!!

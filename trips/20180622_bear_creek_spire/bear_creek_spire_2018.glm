@@ -71,6 +71,7 @@ group CLIMBING_PRO {
 }
 
 group CLIMBING_ROB {
+    +1 topos
     +1 rock_shoes
     +1 helmet
     +1 CLIMBING_HARNESS_ROB

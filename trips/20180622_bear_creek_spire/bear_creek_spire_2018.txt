@@ -67,6 +67,7 @@ CLIMBING_PRO
 SUBTOTAL                                 3lb 5.4oz
 
 CLIMBING_ROB
+ +1 Topos                                      TBD
  +1 Rock Shoes                           1lb 6.2oz -- La Sportiva Mythos Mens 10 
  +1 Helmet                                   8.0oz -- Petzl Meteor 3 
  +1 CLIMBING_HARNESS_ROB                 2lb 5.8oz
