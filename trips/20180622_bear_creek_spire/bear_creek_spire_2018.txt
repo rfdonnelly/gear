@@ -78,14 +78,14 @@ CLIMBING_SHARED_ROB
  +1 CLIMBING_SLINGS                      1lb 7.2oz
 SUBTOTAL                                4lb 12.7oz
 
-CLIMBING_SHARED_JUSTIN
- +1 Rope Justin                          9lb 0.0oz -- 60m 9.8mm 
-SUBTOTAL                                 9lb 0.0oz
+CLIMBING_SHARED_BRENT
+ +1 Rope Alpine                          8lb 0.0oz -- Sterling Fusion Nano Bipattern 9.2mm 60m 
+SUBTOTAL                                 8lb 0.0oz
 
 CLIMBING_SHARED
  +1 CLIMBING_SHARED_ROB                 4lb 12.7oz
- +1 CLIMBING_SHARED_JUSTIN               9lb 0.0oz
-SUBTOTAL                               13lb 12.7oz
+ +1 CLIMBING_SHARED_BRENT                8lb 0.0oz
+SUBTOTAL                               12lb 12.7oz
 
 TOILETRIES_ROB
  +1 Tooth Brush                              0.5oz
@@ -222,7 +222,7 @@ TOTAL_SHARED_ROB
  +1 CONSUMABLES_SHARED_ROB              6lb 12.7oz
 SUBTOTAL                                12lb 5.2oz
 
-TOTAL_SHARED_JUSTIN
- +1 CLIMBING_SHARED_JUSTIN               9lb 0.0oz
-SUBTOTAL                                 9lb 0.0oz
+TOTAL_SHARED_BRENT
+ +1 CLIMBING_SHARED_BRENT                8lb 0.0oz
+SUBTOTAL                                 8lb 0.0oz
 
