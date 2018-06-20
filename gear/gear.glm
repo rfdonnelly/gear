@@ -185,6 +185,12 @@ item socks::light {
     weight = 3.3oz
     desc = SmartWool Hiking Light Cushion L
 }
+item r1::hoodie {
+}
+item houdini {
+}
+item nanopuff {
+}
 # don't like
 #item socks::heavy {
 #    weight = 3.2oz

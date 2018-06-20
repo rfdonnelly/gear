@@ -134,7 +134,7 @@ CLOTHES_ROB
  +1 Gloves Mid                               1.9oz -- Black Diamond Midweight L 
  +1 R1 Hoodie                                  TBD
  +1 Nanopuff                                   TBD
- +1 Hoodini                                    TBD
+ +1 Houdini                                    TBD
  +1 Shirt Base                               5.0oz -- REI Lightweight Polartec Power Dry S 
  +1 Pants Guide                          1lb 2.9oz -- Patagonia Alpine Guide 30 
  +1 Underwear                                2.8oz -- ExOfficio Boxer Briefs M 

@@ -139,7 +139,7 @@ group CLOTHES_ROB {
     +1 gloves::mid
     +1 r1::hoodie
     +1 nanopuff
-    +1 hoodini
+    +1 houdini
     #+1 thermal::top # will use r1 hoodie instead
     #+1 thermal::bottom # will use guide pants instead
     +1 shirt::base
