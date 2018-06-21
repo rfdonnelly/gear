@@ -100,7 +100,7 @@ group TOILETRIES_ROB {
     +1 towel::sack
     +1 hand_sanitizer
     +1 tp
-    +5 wipes 
+    +5 wipes
     +1 bug::spray
     +3 chapstick
 }
@@ -210,7 +210,7 @@ group PACK_DRY_ROB {
 
     +1 CLIMBING_ROB
     +1 CLIMBING_SHARED_ROB
-    
+
     +1 KITCHEN_ROB
     +1 KITCHEN_SHARED_ROB
 
