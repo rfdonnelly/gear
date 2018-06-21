@@ -165,10 +165,8 @@ group ACCESSORIES_ROB {
     +1 maps
     +1 camera
     +1 camera::battery
-    +1 dslr
     +1 knife
     +1 knife::sheath
-    +1 camp_shoes # FIXME don't bring?
     +1 watch # FIXME don't have
     +1 boots
     +1 trekking_poles
