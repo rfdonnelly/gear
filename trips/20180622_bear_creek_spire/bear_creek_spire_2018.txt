@@ -129,6 +129,12 @@ KITCHEN_SHARED
  +1 KITCHEN_SHARED_ROB                      11.9oz
 SUBTOTAL                                    11.9oz
 
+SNOW_GEAR
+ +1 Gaiters                                 10.6oz -- Outdoor Research ??? 
+ +1 Crampons                             2lb 1.0oz -- Petzl Vasak ??? 
+ +1 Ice Axe                                 15.2oz -- Black Diamond Raven Pro 65cm 
+SUBTOTAL                                3lb 10.8oz
+
 CLOTHES_ROB
  +1 Cap                                      3.0oz -- Outdoor Research Sun Runner XL 
  +1 Beanie                                   2.0oz -- Mountain Hardware Dome Perignon S 
@@ -152,30 +158,29 @@ CLOTHES_PACK_ROB
 SUBTOTAL                                1lb 12.3oz
 
 ACCESSORIES_ROB
+ +1 SNOW_GEAR                           3lb 10.8oz
  +1 Headlamp                                 3.3oz -- Petzl Tikka XP 2 !!ESTIMATED_WEIGHT!! 
  +1 Sun Glasses                              0.8oz -- Smith Parallel D-Max Polarized 
  +1 Sun Glasses Soft Case                    0.3oz
  +1 Maps                                       TBD
  +1 Camera                                   5.0oz -- Canon PowerShot SD400 
  +1 Camera Battery                           0.6oz -- Canon NB-4L 
- +1 Dslr                                1lb 13.4oz -- Canon T4i 
  +1 Knife                                    2.5oz -- ESEE Izula Black 
  +1 Knife Sheath                             0.9oz
- +1 Camp Shoes                               8.8oz -- K-Mart Protege Sandals 
  +1 Watch                                    2.4oz -- Highgear AltiForce 
- +1 Boots                                      TBD
+ +1 Approach Shoes                      1lb 12.0oz -- FiveTen Guide Tennie 10 !!ESTIMATED_WEIGHT!! 
  +1 Trekking Poles                             TBD
  +2 Biner                                    1.6oz -- Camp Nano 23 
-SUBTOTAL                                 3lb 7.5oz
+SUBTOTAL                                 6lb 8.2oz
 
 ACCESSORIES_PACK_ROB
- +1 ACCESSORIES_ROB                      3lb 7.5oz
+ +1 ACCESSORIES_ROB                      6lb 8.2oz
  -1 Sun Glasses                              0.8oz -- Smith Parallel D-Max Polarized 
  -1 Watch                                    2.4oz -- Highgear AltiForce 
- -1 Boots                                      TBD
+ -1 Approach Shoes                      1lb 12.0oz -- FiveTen Guide Tennie 10 !!ESTIMATED_WEIGHT!! 
  -1 Trekking Poles                             TBD
  -1 Camera                                   5.0oz -- Canon PowerShot SD400 
-SUBTOTAL                                2lb 15.4oz
+SUBTOTAL                                 4lb 4.1oz
 
 CONSUMABLES_ROB
  +2 Water                                4lb 6.5oz
@@ -207,14 +212,14 @@ PACK_DRY_ROB
  +1 TOILETRIES_ROB                           4.5oz
  +1 FIRST_AID                                4.1oz
  +1 CLOTHES_PACK_ROB                    1lb 12.3oz
- +1 ACCESSORIES_PACK_ROB                2lb 15.4oz
-SUBTOTAL                                23lb 6.3oz
+ +1 ACCESSORIES_PACK_ROB                 4lb 4.1oz
+SUBTOTAL                               24lb 11.0oz
 
 PACK_TOTAL_ROB
- +1 PACK_DRY_ROB                        23lb 6.3oz
+ +1 PACK_DRY_ROB                       24lb 11.0oz
  +1 CONSUMABLES_ROB                     10lb 6.5oz
  +1 CONSUMABLES_SHARED_ROB              6lb 12.7oz
-SUBTOTAL                                40lb 9.5oz
+SUBTOTAL                               41lb 14.2oz
 
 TOTAL_SHARED_ROB
  +1 CLIMBING_SHARED_ROB                 4lb 12.7oz
