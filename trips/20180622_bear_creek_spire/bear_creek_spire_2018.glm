@@ -134,6 +134,12 @@ group KITCHEN_SHARED {
     +1 KITCHEN_SHARED_ROB
 }
 
+group SNOW_GEAR {
+    +1 gaiters
+    +1 crampons
+    +1 ice_axe
+}
+
 group CLOTHES_ROB {
     +1 cap
     +1 beanie
@@ -159,6 +165,7 @@ group CLOTHES_PACK_ROB {
 }
 
 group ACCESSORIES_ROB {
+    +1 SNOW_GEAR
     +1 headlamp
     +1 sun_glasses
     +1 sun_glasses::soft_case
