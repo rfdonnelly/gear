@@ -175,7 +175,7 @@ group ACCESSORIES_ROB {
     +1 knife
     +1 knife::sheath
     +1 watch # FIXME don't have
-    +1 boots
+    +1 approach_shoes
     +1 trekking_poles
     +2 biner
 }
@@ -184,7 +184,7 @@ group ACCESSORIES_PACK_ROB {
     +1 ACCESSORIES_ROB
     -1 sun_glasses
     -1 watch
-    -1 boots
+    -1 approach_shoes
     -1 trekking_poles
     -1 camera
 }
