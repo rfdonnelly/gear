@@ -13,9 +13,8 @@ SLEEP_ROB
  +1 Sleeping Bag                        1lb 12.9oz -- REI Sub Kilo +20 Regular 
  +1 Sleeping Bag Sack                        2.2oz
  +1 Pillow                                   3.9oz -- Cocoon Ultralight Air-Core 
- +1 Sleeping Pad                            14.0oz -- Therm-A-Rest Z-Lite Sol 
- +1 Sleeping Pad Straps                        TBD -- FIXME 
-SUBTOTAL                                 3lb 0.9oz
+ +1 Sleeping Pad                         1lb 1.9oz -- Sea to Summit Ultralight Insulated R 
+SUBTOTAL                                 3lb 4.8oz
 
 SLEEP_SHARED_ROB
  +1 TENT                                4lb 11.4oz
@@ -137,25 +136,26 @@ SUBTOTAL                                3lb 10.8oz
 
 CLOTHES_ROB
  +1 Cap                                      3.0oz -- Outdoor Research Sun Runner XL 
- +1 Beanie                                   2.0oz -- Mountain Hardware Dome Perignon S 
  +1 Gloves Mid                               1.9oz -- Black Diamond Midweight L 
  +1 R1 Hoodie                                  TBD
- +1 Nanopuff                                   TBD
+ +1 Nanopuff Pullover                        9.2oz
  +1 Houdini                                    TBD
+ +1 Thermal Bottom                           7.4oz -- SmartWool Midweight M 
  +1 Shirt Base                               5.0oz -- REI Lightweight Polartec Power Dry S 
- +1 Pants Guide                          1lb 2.9oz -- Patagonia Alpine Guide 30 
+ +1 Pants Climbing                           9.1oz -- Patagonia 
  +1 Underwear                                2.8oz -- ExOfficio Boxer Briefs M 
  +2 Socks Light                              6.6oz -- SmartWool Hiking Light Cushion L 
  +1 Buff                                     1.4oz -- National Geographic 
-SUBTOTAL                                 2lb 9.6oz
+SUBTOTAL                                2lb 14.3oz
 
 CLOTHES_PACK_ROB
- +1 CLOTHES_ROB                          2lb 9.6oz
+ +1 CLOTHES_ROB                         2lb 14.3oz
  -1 Shirt Short Sleeve                       4.3oz -- Champion Synthetic S 
  -1 Cap                                      3.0oz -- Outdoor Research Sun Runner XL 
  -1 Socks Light                              3.3oz -- SmartWool Hiking Light Cushion L 
+ -1 Pants Climbing                           9.1oz -- Patagonia 
  -1 Underwear                                2.8oz -- ExOfficio Boxer Briefs M 
-SUBTOTAL                                1lb 12.3oz
+SUBTOTAL                                 1lb 7.9oz
 
 ACCESSORIES_ROB
  +1 SNOW_GEAR                           3lb 10.8oz
@@ -204,22 +204,22 @@ SUBTOTAL                                4lb 12.5oz
 
 PACK_DRY_ROB
  +1 MAIN_ROB                            4lb 12.5oz
- +1 SLEEP_ROB                            3lb 0.9oz
+ +1 SLEEP_ROB                            3lb 4.8oz
  +1 CLIMBING_ROB                         4lb 4.0oz
  +1 CLIMBING_SHARED_ROB                 4lb 12.7oz
  +1 KITCHEN_ROB                              8.2oz
  +1 KITCHEN_SHARED_ROB                      11.9oz
  +1 TOILETRIES_ROB                           4.5oz
  +1 FIRST_AID                                4.1oz
- +1 CLOTHES_PACK_ROB                    1lb 12.3oz
+ +1 CLOTHES_PACK_ROB                     1lb 7.9oz
  +1 ACCESSORIES_PACK_ROB                 4lb 4.1oz
-SUBTOTAL                               24lb 11.0oz
+SUBTOTAL                               24lb 10.6oz
 
 PACK_TOTAL_ROB
- +1 PACK_DRY_ROB                       24lb 11.0oz
+ +1 PACK_DRY_ROB                       24lb 10.6oz
  +1 CONSUMABLES_ROB                     10lb 6.5oz
  +1 CONSUMABLES_SHARED_ROB              6lb 12.7oz
-SUBTOTAL                               41lb 14.2oz
+SUBTOTAL                               41lb 13.8oz
 
 TOTAL_SHARED_ROB
  +1 CLIMBING_SHARED_ROB                 4lb 12.7oz

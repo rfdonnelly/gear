@@ -58,14 +58,19 @@ item pillow {
 }
 
 item sleeping_pad {
-    weight = 14oz
-    desc = Therm-A-Rest Z-Lite Sol
-
-    item straps {
-        #weight = FIXME
-        desc = FIXME
-    }
+    weight = 17.9oz
+    desc = Sea to Summit Ultralight Insulated R
 }
+
+# item sleeping_pad {
+#     weight = 14oz
+#     desc = Therm-A-Rest Z-Lite Sol
+
+#     item straps {
+#         #weight = FIXME
+#         desc = FIXME
+#     }
+# }
 
 # retired due to slow leak
 #item sleeping_pad {
@@ -172,6 +177,10 @@ item pants {
         weight = 1lb2.9oz
         desc = Patagonia Alpine Guide 30
     }
+    item climbing {
+        weight = 9.1oz
+        desc = Patagonia
+    }
 }
 item shorts {
     weight = 5.5oz
@@ -185,11 +194,17 @@ item socks::light {
     weight = 3.3oz
     desc = SmartWool Hiking Light Cushion L
 }
-item r1::hoodie {
+item r1_hoodie {
 }
 item houdini {
 }
 item nanopuff {
+}
+item nanopuff_hoodie {
+    weight = 12.15oz
+}
+item nanopuff_pullover {
+    weight = 9.2oz
 }
 # don't like
 #item socks::heavy {

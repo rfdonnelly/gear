@@ -12,7 +12,6 @@ group SLEEP_ROB {
     +1 sleeping_bag::sack
     +1 pillow
     +1 sleeping_pad
-    +1 sleeping_pad::straps
 }
 
 group SLEEP_SHARED_ROB {
@@ -142,15 +141,14 @@ group SNOW_GEAR {
 
 group CLOTHES_ROB {
     +1 cap
-    +1 beanie
     +1 gloves::mid
-    +1 r1::hoodie
-    +1 nanopuff
+    +1 r1_hoodie
+    +1 nanopuff_pullover
     +1 houdini
     #+1 thermal::top # will use r1 hoodie instead
-    #+1 thermal::bottom # will use guide pants instead
+    +1 thermal::bottom
     +1 shirt::base
-    +1 pants::guide
+    +1 pants::climbing
     +1 underwear
     +2 socks::light
     +1 buff
@@ -161,6 +159,7 @@ group CLOTHES_PACK_ROB {
     -1 shirt::short_sleeve
     -1 cap
     -1 socks::light
+    -1 pants::climbing
     -1 underwear
 }
 
