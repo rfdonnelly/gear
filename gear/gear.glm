@@ -347,8 +347,9 @@ item spoon {
     desc = REI Lexan
 
     item long {
-        weight = 0.5oz
-        desc = REI Ti Ware !!ESTIMATED_WEIGHT!!
+        weight = 0.6oz
+        desc = REI Ti Ware
+    }
     }
 }
 item stove {
