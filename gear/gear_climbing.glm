@@ -137,6 +137,29 @@ item cam {
     }
 }
 
+item x4cam {
+    item 0.1 {
+        weight = 2.0oz
+        desc = Black Diamond X4 Red
+    }
+    item 0.2 {
+        weight = 2.2oz
+        desc = Black Diamond X4 Yellow
+    }
+    item 0.3 {
+        weight = 2.9oz
+        desc = Black Diamond X4 Blue
+    }
+    item 0.4 {
+        weight = 3.1oz
+        desc = Black Diamond X4 Gray
+    }
+    item biner {
+        weight = 1.1oz
+        desc = Camp Photon Wire
+    }
+}
+
 item sling {
     item single {
         weight = 19g
