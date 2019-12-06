@@ -350,6 +350,9 @@ item spoon {
         weight = 0.6oz
         desc = REI Ti Ware
     }
+    item morsel {
+        weight = 0.8oz
+        desc = Morsel spoon/fork
     }
 }
 item stove {
