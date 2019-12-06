@@ -112,24 +112,28 @@ item hex {
 
 item cam {
     item 0.5 {
-        weight = 4.3oz
+        weight = 3.5oz
         desc = Black Diamond C4 0.5 Purple
     }
     item 0.75 {
-        weight = 5oz
+        weight = 4.15oz
         desc = Black Diamond C4 0.75 Green
     }
     item 1 {
-        weight = 5.5oz
+        weight = 4.7oz
         desc = Black Diamond C4 1 Red
     }
     item 2 {
-        weight = 6.2oz
+        weight = 5.35oz
         desc = Black Diamond C4 2 Yellow
     }
     item 3 {
-        weight = 7.75oz
+        weight = 6.9oz
         desc = Black Diamond C4 3 Blue
+    }
+    item biner {
+        weight = 0.8oz
+        desc = Camp Nano 23
     }
 }
 
