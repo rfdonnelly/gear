@@ -18,8 +18,8 @@ item approach_shoes {
 }
 
 item rock_shoes {
-    weight = 1lb6.25oz
-    desc = La Sportiva Mythos Mens 10
+    weight = 24oz
+    desc = La Sportiva TC Pros 44
 }
 
 item topos {
